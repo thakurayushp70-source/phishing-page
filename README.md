@@ -14,6 +14,7 @@ Click on the Terminal icon or press Ctrl + Alt + T to open the command-line inte
 
  Purpose: The terminal is where you’ll type and execute all Linux commands for installation and running of Zphisher.
 
+![WhatsApp Image 2025-10-14 at 12 06 14 PM](https://github.com/user-attachments/assets/c774192c-3e00-4d0a-ba24-a50e875533b3)
 
 ---
 
@@ -37,6 +38,7 @@ ls
 Purpose:
 ls lists all the files and folders in your current directory. You should now see a folder named zphisher among them, confirming successful download.
 
+![WhatsApp Image 2025-10-14 at 12 06 14 PM](https://github.com/user-attachments/assets/07680df8-0b18-4294-b7d7-b460d4639b3d)
 
 ---
 
@@ -48,6 +50,7 @@ cd zphisher
 This command moves you inside the zphisher folder, where all tool files are stored.
 Now you’re in the correct working directory to run the tool.
 
+![WhatsApp Image 2025-10-14 at 12 06 14 PM (1)](https://github.com/user-attachments/assets/be99e76b-7eb3-4e70-93a9-41209ef8ee10)
 
 ---
 
@@ -57,6 +60,7 @@ bash zphisher.sh
 
  Purpose:
 This runs the main Zphisher script, launching the tool. You’ll now see a menu interface in your terminal where you can choose options for phishing page setup.
+![WhatsApp Image 2025-10-14 at 12 06 14 PM (2)](https://github.com/user-attachments/assets/94d950db-b787-488a-abc6-8dd4d645b6aa)
 
 
 ---
@@ -79,6 +83,7 @@ Select your desired one (e.g., Instagram) by typing its number.
 
  Purpose:
 This selects the target website you want to simulate for the phishing demonstration.
+![WhatsApp Image 2025-10-14 at 12 06 14 PM (3)](https://github.com/user-attachments/assets/58bc3583-7f85-4d1c-b437-b4d927be85e7)
 
 
 ---
@@ -90,6 +95,7 @@ Choose the “Traditional Login Page” option when asked.
  Purpose:
 This will use a simple login clone page that looks identical to the official site but is used here for learning how phishing templates are structured.
 
+![WhatsApp Image 2025-10-14 at 12 06 14 PM (4)](https://github.com/user-attachments/assets/793cb86e-ce70-4c89-9ce0-fd305266abf6)
 
 ---
 
@@ -110,6 +116,7 @@ After setup, Zphisher will generate a localhost link (something like http://127.
  Purpose:
 This link opens your phishing simulation page locally.
 
+![WhatsApp Image 2025-10-14 at 12 06 14 PM (5)](https://github.com/user-attachments/assets/1a7d8973-3c10-4ff0-8cdf-7f8adccadc56)
 
 ---
 
@@ -120,6 +127,7 @@ Copy the generated link and paste it into your browser (e.g., Firefox or Chrome 
  Purpose:
 You’ll see the fake login page (for example, Instagram’s login page copy) loaded locally.
 This demonstrates how phishing pages appear to users.
+![WhatsApp Image 2025-10-14 at 12 06 14 PM (6)](https://github.com/user-attachments/assets/6f45b5aa-34db-416f-8d0b-bb06ec38d862)
 
 
 ---
@@ -131,6 +139,7 @@ When you (or a test user) enter credentials on that page, the details appear in 
  Purpose:
 This shows how phishing captures credentials, helping you understand how attackers steal data — and thus, how to prevent it.
 
+![WhatsApp Image 2025-10-14 at 12 06 14 PM (7)](https://github.com/user-attachments/assets/40d9c06c-7694-456b-af5f-8b6294772486)
 
 ---
 
@@ -142,3 +151,4 @@ Ctrl + C
 
  Purpose:
 This stops Zphisher and ends the local server. Always close it after your testing session.
+![WhatsApp Image 2025-10-14 at 12 06 14 PM (8)](https://github.com/user-attachments/assets/8ef08a56-7490-44cf-979c-e8dbdcd263b3)
